@@ -1,0 +1,181 @@
+id,nombre_premio,categoria,anio,serie
+1,Festival Lumiere,Mejor dirección,2026,Horizonte Secreta 4
+2,Silver Frame,Mejor producción,2026,Casa Azul
+3,Critics Choice Stream,Mejor dirección,2013,Frontera Perdida
+4,Streaming Excellence,Mejor producción,2019,Herencia Lejana
+5,Silver Frame,Mejor comedia,2021,Secreto Oscura
+6,Festival Lumiere,Mejor serie internacional,2015,Memoria Brillante
+7,Silver Frame,Mejor comedia,2019,Horizonte Brillante 81
+8,Global Series Awards,Mejor serie internacional,2021,Medianoche Final 55
+9,Critics Choice Stream,Mejor serie dramática,2025,Sombras Del Sur
+10,Viewers Choice Awards,Mejor serie internacional,2022,Imperio Final
+11,Festival Lumiere,Mejor serie internacional,2024,Luz Salvaje
+12,Digital Emmy,Mejor serie documental,2021,Niebla Rota
+13,Golden Screen,Mejor serie dramática,2016,Puerto Central
+14,Continental TV Prize,Mejor serie internacional,2023,Frontera Brillante
+15,Viewers Choice Awards,Mejor serie dramática,2020,Raíces Final
+16,Digital Emmy,Premio del público,2023,Refugio Salvaje
+17,Golden Screen,Mejor comedia,2016,Medianoche Final 55
+18,International Drama Awards,Mejor serie dramática,2021,Archivo Circular
+19,Critics Choice Stream,Mejor fotografía,2016,Último Final
+20,Streaming Excellence,Mejor guion,2024,Camino Central
+21,Continental TV Prize,Mejor serie dramática,2025,Destino Del Sur
+22,Digital Emmy,Mejor serie de suspenso,2022,Raíces Secreta
+23,Golden Screen,Mejor guion,2011,Archivo Central 42
+24,Critics Choice Stream,Mejor serie documental,2023,Imperio Profunda
+25,Viewers Choice Awards,Mejor dirección,2016,Raíces Del Sur
+26,International Drama Awards,Premio del público,2023,Silencio Rota
+27,Viewers Choice Awards,Mejor fotografía,2015,Medianoche Dorada
+28,Streaming Excellence,Mejor serie documental,2025,Amanecer Azul
+29,International Drama Awards,Mejor serie internacional,2019,Herencia Rota
+30,International Drama Awards,Premio del público,2024,Ruta Antigua
+31,Streaming Excellence,Premio del público,2022,Puerto Central
+32,International Drama Awards,Mejor fotografía,2013,Secreto Oscura
+33,International Drama Awards,Mejor guion,2019,Archivo Central
+34,Global Series Awards,Mejor serie internacional,2023,Reino Salvaje
+35,Digital Emmy,Mejor producción,2026,Amanecer Dorada
+36,Global Series Awards,Mejor serie internacional,2018,Raíces Central
+37,Digital Emmy,Mejor serie dramática,2018,Herencia Circular
+38,Golden Screen,Mejor serie dramática,2023,Amanecer Circular
+39,Global Series Awards,Mejor serie internacional,2019,Medianoche Del Sur
+40,Silver Frame,Mejor serie internacional,2025,Sombras Del Sur
+41,Streaming Excellence,Premio del público,2016,Ciudad Antigua
+42,Streaming Excellence,Mejor comedia,2019,Medianoche Del Sur
+43,International Drama Awards,Mejor dirección,2023,Primera Oscura
+44,Critics Choice Stream,Premio del público,2016,Horizonte Brillante
+45,Global Series Awards,Premio del público,2019,Pacto Azul
+46,Streaming Excellence,Mejor producción,2026,Luz Profunda 77
+47,Viewers Choice Awards,Mejor producción,2026,Mirada Perdida
+48,Streaming Excellence,Mejor serie documental,2012,Marea Salvaje
+49,Digital Emmy,Mejor serie documental,2022,Destino Secreta
+50,Festival Lumiere,Mejor serie de suspenso,2025,Ruta Oscura
+51,Golden Screen,Mejor serie dramática,2016,Imperio Antigua
+52,Silver Frame,Mejor dirección,2025,Amanecer Azul
+53,Continental TV Prize,Premio del público,2018,Destino Del Sur
+54,Streaming Excellence,Mejor serie dramática,2021,Medianoche Del Sur
+55,Digital Emmy,Mejor serie de suspenso,2017,Destino Profunda
+56,Festival Lumiere,Premio del público,2021,Primera Circular
+57,Critics Choice Stream,Mejor serie internacional,2025,Amanecer Azul
+58,Digital Emmy,Mejor dirección,2025,Herencia Rota
+59,Global Series Awards,Mejor comedia,2016,Raíces Final
+60,Silver Frame,Mejor comedia,2018,Camino Salvaje
+61,Global Series Awards,Mejor serie dramática,2023,Herencia Circular
+62,Streaming Excellence,Mejor guion,2024,Imperio Antigua
+63,Continental TV Prize,Mejor serie internacional,2019,Mirada Secreta
+64,International Drama Awards,Mejor serie documental,2023,Estación Invisible
+65,Festival Lumiere,Mejor guion,2019,Mirada Secreta
+66,Digital Emmy,Premio del público,2019,Refugio Central
+67,International Drama Awards,Mejor serie de suspenso,2018,Archivo Central
+68,Critics Choice Stream,Mejor dirección,2025,Secreto Oscura
+69,Global Series Awards,Mejor guion,2026,Raíces Secreta
+70,Critics Choice Stream,Premio del público,2010,Marea Central
+71,Digital Emmy,Mejor producción,2011,Reino Salvaje
+72,Festival Lumiere,Premio del público,2026,Código Eterna
+73,International Drama Awards,Mejor guion,2011,Amanecer Infinita
+74,Golden Screen,Mejor producción,2012,Primera Antigua
+75,Festival Lumiere,Mejor producción,2018,Ciudad Final
+76,International Drama Awards,Mejor dirección,2022,Último Central
+77,Global Series Awards,Mejor fotografía,2021,Luz Profunda 77
+78,Golden Screen,Premio del público,2024,Reino Salvaje
+79,International Drama Awards,Mejor serie documental,2026,Último Central
+80,Silver Frame,Mejor serie documental,2022,Secreto Azul
+81,International Drama Awards,Premio del público,2025,Amanecer Azul
+82,Digital Emmy,Mejor serie de suspenso,2022,Refugio Salvaje
+83,Continental TV Prize,Mejor serie internacional,2025,Archivo Final
+84,International Drama Awards,Mejor serie documental,2017,Reino Perdida
+85,Streaming Excellence,Mejor producción,2026,Destino Secreta
+86,Digital Emmy,Mejor comedia,2024,Luz Salvaje
+87,International Drama Awards,Mejor producción,2025,Archivo Final
+88,Viewers Choice Awards,Mejor serie documental,2013,Medianoche Final 55
+89,Digital Emmy,Premio del público,2011,Primera Perdida
+90,Streaming Excellence,Mejor serie documental,2026,Herencia Rota
+91,Festival Lumiere,Mejor guion,2021,Silencio Dorada
+92,Festival Lumiere,Mejor producción,2023,Voces Lejana
+93,Festival Lumiere,Mejor comedia,2022,Horizonte Secreta 4
+94,Streaming Excellence,Mejor dirección,2023,Mirada Azul
+95,Golden Screen,Mejor producción,2021,Imperio Antigua
+96,Silver Frame,Mejor producción,2025,Código Rota
+97,Continental TV Prize,Mejor dirección,2012,Imperio Antigua
+98,Continental TV Prize,Mejor serie internacional,2017,Medianoche Final 55
+99,Global Series Awards,Mejor serie de suspenso,2020,Niebla Antigua
+100,Streaming Excellence,Mejor comedia,2018,Medianoche Del Sur
+101,Festival Lumiere,Mejor serie documental,2021,Silencio Dorada
+102,International Drama Awards,Mejor serie dramática,2018,Destino Infinita
+103,Global Series Awards,Premio del público,2023,Imperio Central
+104,Viewers Choice Awards,Mejor fotografía,2017,Destino Profunda
+105,Continental TV Prize,Mejor serie dramática,2024,Horizonte Brillante
+106,Golden Screen,Mejor guion,2019,Camino Salvaje
+107,Digital Emmy,Mejor serie dramática,2026,Imperio Final
+108,Digital Emmy,Mejor serie internacional,2023,Reino Perdida
+109,Streaming Excellence,Mejor serie dramática,2025,Silencio Del Sur
+110,Golden Screen,Mejor comedia,2013,Raíces Del Sur
+111,Digital Emmy,Mejor comedia,2015,Herencia Circular
+112,Viewers Choice Awards,Mejor producción,2022,Memoria Salvaje
+113,Golden Screen,Mejor guion,2017,Herencia Circular
+114,Global Series Awards,Mejor dirección,2026,Camino Infinita
+115,Digital Emmy,Mejor serie dramática,2023,Imperio Central
+116,Continental TV Prize,Mejor serie internacional,2026,Ciudad Final
+117,Digital Emmy,Mejor serie documental,2025,Voces Profunda
+118,Critics Choice Stream,Mejor guion,2024,Raíces Del Sur
+119,Critics Choice Stream,Mejor fotografía,2026,Memoria Azul
+120,International Drama Awards,Mejor serie internacional,2023,Camino Infinita
+121,International Drama Awards,Mejor fotografía,2011,Herencia Lejana
+122,International Drama Awards,Mejor serie de suspenso,2026,Sombras Del Sur
+123,Continental TV Prize,Premio del público,2025,Horizonte Brillante
+124,Festival Lumiere,Mejor serie de suspenso,2024,Archivo Circular
+125,Golden Screen,Mejor guion,2023,Raíces Del Sur
+126,Critics Choice Stream,Mejor dirección,2014,Puerto Brillante
+127,Streaming Excellence,Mejor serie de suspenso,2021,Imperio Antigua
+128,Global Series Awards,Mejor fotografía,2013,Estación Central
+129,Golden Screen,Mejor comedia,2021,Silencio Dorada
+130,Viewers Choice Awards,Mejor serie dramática,2021,Silencio Dorada
+131,Silver Frame,Mejor serie dramática,2017,Voces Profunda
+132,Digital Emmy,Mejor guion,2025,Código Secreta
+133,Global Series Awards,Mejor dirección,2019,Primera Perdida
+134,Festival Lumiere,Premio del público,2024,Camino Infinita
+135,Critics Choice Stream,Mejor comedia,2018,Niebla Antigua
+136,Continental TV Prize,Mejor serie de suspenso,2025,Código Del Sur
+137,Global Series Awards,Mejor producción,2023,Refugio Central
+138,Viewers Choice Awards,Mejor dirección,2023,Último Brillante
+139,Golden Screen,Mejor serie de suspenso,2023,Ruta Antigua
+140,Silver Frame,Mejor serie internacional,2013,Voces Salvaje
+141,Festival Lumiere,Mejor serie de suspenso,2025,Archivo Final
+142,Festival Lumiere,Mejor guion,2019,Amanecer Oscura
+143,Viewers Choice Awards,Premio del público,2023,Herencia Secreta
+144,Critics Choice Stream,Mejor serie dramática,2021,Estación Invisible
+145,Critics Choice Stream,Premio del público,2016,Destino Del Sur
+146,Digital Emmy,Premio del público,2017,Imperio Antigua
+147,Global Series Awards,Mejor dirección,2017,Medianoche Final
+148,International Drama Awards,Mejor fotografía,2023,Último Brillante
+149,Critics Choice Stream,Mejor serie documental,2019,Memoria Brillante
+150,Global Series Awards,Mejor guion,2022,Niebla Rota
+151,International Drama Awards,Mejor serie de suspenso,2026,Archivo Final
+152,Global Series Awards,Mejor guion,2024,Horizonte Secreta
+153,Critics Choice Stream,Mejor serie internacional,2025,Amanecer Oscura
+154,Critics Choice Stream,Mejor serie de suspenso,2010,Imperio Antigua
+155,Global Series Awards,Mejor serie internacional,2020,Primera Circular
+156,Digital Emmy,Mejor comedia,2018,Niebla Antigua
+157,International Drama Awards,Mejor serie de suspenso,2025,Herencia Lejana
+158,Digital Emmy,Mejor serie internacional,2025,Silencio Del Sur
+159,Continental TV Prize,Mejor fotografía,2019,Sombras Central
+160,Golden Screen,Mejor guion,2011,Camino Brillante
+161,Golden Screen,Mejor serie dramática,2012,Amanecer Central
+162,Streaming Excellence,Mejor serie dramática,2019,Primera Salvaje
+163,Critics Choice Stream,Mejor dirección,2021,Horizonte Brillante
+164,Continental TV Prize,Mejor serie internacional,2024,Camino Infinita 18
+165,Continental TV Prize,Mejor serie documental,2025,Reino Secreta
+166,International Drama Awards,Mejor guion,2025,Código Salvaje
+167,Global Series Awards,Mejor dirección,2015,Frontera Brillante
+168,Golden Screen,Mejor serie internacional,2013,Frontera Brillante
+169,Streaming Excellence,Mejor producción,2017,Destino Profunda
+170,Global Series Awards,Mejor guion,2020,Niebla Oscura
+171,Golden Screen,Premio del público,2019,Frontera Perdida
+172,International Drama Awards,Mejor guion,2025,Marea Central
+173,Silver Frame,Mejor serie documental,2026,Primera Perdida
+174,Critics Choice Stream,Premio del público,2025,Destino Profunda
+175,Viewers Choice Awards,Mejor dirección,2023,Voces Lejana
+176,International Drama Awards,Mejor serie dramática,2013,Imperio Antigua
+177,International Drama Awards,Mejor serie dramática,2024,Reino Secreta
+178,Critics Choice Stream,Premio del público,2026,Mirada Rota
+179,Critics Choice Stream,Mejor producción,2025,Sombras Del Sur
+180,Global Series Awards,Mejor producción,2024,Destino Infinita

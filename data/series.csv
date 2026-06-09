@@ -1,0 +1,121 @@
+id,titulo,genero,anio_estreno,temporadas,plataforma,pais
+1,Ruta Antigua,Documental,2016,6,CineMax Play,Brasil
+2,Niebla Rota,Documental,2021,2,Europa Cine,Egipto
+3,Código Salvaje,Histórica,2025,7,StreamFlix,Nigeria
+4,Frontera Perdida,Romance,2011,8,Asia Drama Plus,España
+5,Secreto Azul,Crimen,2022,4,Asia Drama Plus,Brasil
+6,Amanecer Circular,Suspenso,2023,1,Global Series Hub,Reino Unido
+7,Herencia Circular,Suspenso,2015,3,Horizon Plus,Alemania
+8,Ciudad Antigua,Fantasía,2012,4,Berlin Stream,Australia
+9,Amanecer Oscura,Histórica,2012,6,BritBox Global,Brasil
+10,Niebla Antigua,Acción,2018,7,Berlin Stream,Sudáfrica
+11,Frontera Del Norte,Drama,2016,6,BritBox Global,España
+12,Herencia Lejana,Histórica,2010,4,StreamFlix,Australia
+13,Memoria Azul,Comedia,2018,4,CapeView,Brasil
+14,Memoria Salvaje,Fantasía,2014,4,Global Series Hub,Japón
+15,Destino Infinita,Drama,2018,2,Latam Series,Egipto
+16,Niebla Oscura,Crimen,2009,1,Brasil Play,Japón
+17,Destino Dorada,Suspenso,2024,2,Horizon Plus,Francia
+18,Camino Antigua,Crimen,2025,7,CapeView,Sudáfrica
+19,Imperio Profunda,Fantasía,2023,6,IberiaTV,Nigeria
+20,Camino Del Norte,Ciencia ficción,2007,4,CineMax Play,Nigeria
+21,Código Eterna,Crimen,2024,2,K-Drama World,Sudáfrica
+22,Luz Profunda,Documental,2005,3,Lumiere Play,Egipto
+23,Puerto Central,Drama,2016,5,Lumiere Play,Alemania
+24,Ciudad Nueva,Documental,2019,4,Brasil Play,Reino Unido
+25,Código Rota,Fantasía,2007,5,Kiwi Stories,Reino Unido
+26,Mirada Perdida,Drama,2005,2,Asia Drama Plus,Japón
+27,Reino Salvaje,Crimen,2011,3,Nile Screen,Estados Unidos
+28,Camino Del Sur,Suspenso,2018,7,Horizon Plus,Brasil
+29,Camino Brillante,Acción,2006,2,Horizon Plus,Nigeria
+30,Herencia Final,Romance,2010,5,BritBox Global,Alemania
+31,Memoria Brillante,Comedia,2015,5,Kiwi Stories,Egipto
+32,Marea Salvaje,Acción,2009,1,Europa Cine,Francia
+33,Marea Azul,Fantasía,2013,8,Europa Cine,Reino Unido
+34,Ruta Oscura,Drama,2015,6,Sakura Plus,Japón
+35,Medianoche Del Sur,Crimen,2014,6,Global Series Hub,Alemania
+36,Archivo Central,Documental,2018,4,StreamFlix,Sudáfrica
+37,Casa Circular,Histórica,2007,4,StreamFlix,Japón
+38,Mirada Secreta,Fantasía,2019,8,Kiwi Stories,España
+39,Sombras Central,Crimen,2006,4,Kiwi Stories,India
+40,Silencio Rota,Romance,2014,3,Lumiere Play,Nueva Zelanda
+41,Estación Circular,Drama,2022,1,CapeView,México
+42,Luz Profunda 77,Acción,2012,3,CineMax Play,Australia
+43,Medianoche Eterna,Acción,2009,8,Nollywood Play,Japón
+44,Casa Azul,Comedia,2011,8,Brasil Play,Nueva Zelanda
+45,Marea Perdida,Crimen,2019,8,CapeView,Egipto
+46,Reino Central,Documental,2019,3,Nile Screen,España
+47,Medianoche Dorada,Ciencia ficción,2007,5,Lumiere Play,Australia
+48,Primera Oscura,Crimen,2007,3,IberiaTV,Egipto
+49,Memoria Rota,Suspenso,2010,5,CapeView,Sudáfrica
+50,Pacto Azul,Fantasía,2019,7,K-Drama World,Japón
+51,Estación Central,Romance,2013,6,Brasil Play,Japón
+52,Puerto Brillante,Acción,2014,8,Asia Drama Plus,Brasil
+53,Camino Central,Documental,2024,5,Kiwi Stories,Japón
+54,Último Brillante,Acción,2023,5,Asia Drama Plus,Brasil
+55,Mirada Profunda,Crimen,2014,7,Berlin Stream,España
+56,Secreto Oscura,Drama,2013,3,CapeView,Reino Unido
+57,Silencio Dorada,Documental,2021,6,Global Series Hub,España
+58,Destino Del Sur,Acción,2014,1,Global Series Hub,España
+59,Archivo Central 42,Comedia,2009,1,Kiwi Stories,México
+60,Refugio Central,Suspenso,2007,5,Sakura Plus,India
+61,Pacto Nueva,Acción,2024,5,BritBox Global,Sudáfrica
+62,Primera Perdida,Histórica,2011,2,Latam Series,Nigeria
+63,Luz Azul,Ciencia ficción,2006,7,Asia Drama Plus,India
+64,Último Central,Romance,2017,4,StreamFlix,Estados Unidos
+65,Reino Perdida,Crimen,2005,7,Global Series Hub,Nueva Zelanda
+66,Horizonte Secreta,Fantasía,2024,4,Horizon Plus,México
+67,Refugio Salvaje,Crimen,2015,7,Europa Cine,Brasil
+68,Herencia Azul,Crimen,2018,1,Nollywood Play,Reino Unido
+69,Horizonte Invisible,Comedia,2005,2,Sakura Plus,India
+70,Herencia Rota,Comedia,2017,5,CineMax Play,Japón
+71,Ciudad Final,Comedia,2018,5,Asia Drama Plus,Nigeria
+72,Raíces Central,Comedia,2009,2,Kiwi Stories,Egipto
+73,Horizonte Brillante,Crimen,2008,4,StreamFlix,Estados Unidos
+74,Amanecer Infinita,Fantasía,2006,1,Lumiere Play,Australia
+75,Código Del Sur,Histórica,2014,1,Brasil Play,Egipto
+76,Luz Salvaje,Crimen,2024,1,CineMax Play,India
+77,Imperio Antigua,Romance,2009,8,Nile Screen,Francia
+78,Raíces Del Sur,Documental,2007,5,Brasil Play,España
+79,Horizonte Secreta 4,Documental,2006,7,IberiaTV,Alemania
+80,Amanecer Dorada,Crimen,2017,4,Bollywood Now,Francia
+81,Silencio Del Sur,Romance,2025,4,Aussie Vision,Corea del Sur
+82,Medianoche Final,Crimen,2011,6,Asia Drama Plus,México
+83,Archivo Final,Ciencia ficción,2025,5,StreamFlix,Australia
+84,Marea Invisible,Fantasía,2011,2,Europa Cine,Reino Unido
+85,Raíces Secreta,Suspenso,2016,5,CineMax Play,Alemania
+86,Código Secreta,Ciencia ficción,2022,5,Lumiere Play,Francia
+87,Imperio Central,Drama,2023,8,Europa Cine,México
+88,Marea Central,Histórica,2010,3,IberiaTV,Estados Unidos
+89,Primera Salvaje,Suspenso,2017,7,Nollywood Play,India
+90,Voces Lejana,Histórica,2023,6,Nile Screen,Brasil
+91,Imperio Final,Documental,2019,7,Europa Cine,España
+92,Imperio Antigua 12,Acción,2021,7,Europa Cine,Nigeria
+93,Primera Circular,Romance,2017,6,Lumiere Play,Sudáfrica
+94,Mirada Azul,Romance,2016,2,Asia Drama Plus,India
+95,Sombras Del Sur,Histórica,2025,5,Asia Drama Plus,Australia
+96,Último Final,Acción,2014,5,StreamFlix,Francia
+97,Sombras Antigua,Comedia,2015,7,Global Series Hub,Brasil
+98,Voces Profunda,Documental,2015,4,Bollywood Now,Estados Unidos
+99,Reino Secreta,Fantasía,2023,1,Kiwi Stories,México
+100,Camino Salvaje,Fantasía,2008,2,Berlin Stream,Egipto
+101,Silencio Profunda,Romance,2012,7,Kiwi Stories,Nigeria
+102,Refugio Eterna,Ciencia ficción,2017,4,Asia Drama Plus,Estados Unidos
+103,Estación Invisible,Romance,2007,1,CineMax Play,Francia
+104,Amanecer Secreta,Suspenso,2022,5,CineMax Play,India
+105,Archivo Circular,Comedia,2021,3,Berlin Stream,Egipto
+106,Primera Antigua,Romance,2009,3,BritBox Global,Egipto
+107,Camino Infinita,Crimen,2023,3,CapeView,Egipto
+108,Amanecer Azul,Comedia,2025,3,Kiwi Stories,Nigeria
+109,Horizonte Brillante 81,Ciencia ficción,2019,6,K-Drama World,Corea del Sur
+110,Frontera Brillante,Comedia,2005,1,Lumiere Play,Sudáfrica
+111,Camino Infinita 18,Romance,2006,1,Horizon Plus,España
+112,Destino Profunda,Fantasía,2017,8,BritBox Global,Francia
+113,Herencia Secreta,Fantasía,2023,2,Sakura Plus,Japón
+114,Medianoche Final 55,Comedia,2011,6,Aussie Vision,Reino Unido
+115,Amanecer Central,Drama,2011,1,IberiaTV,España
+116,Raíces Final,Fantasía,2005,6,K-Drama World,Nigeria
+117,Voces Salvaje,Crimen,2007,1,Horizon Plus,Nigeria
+118,Marea Eterna,Documental,2022,1,Nile Screen,Sudáfrica
+119,Mirada Rota,Romance,2007,4,Nollywood Play,India
+120,Destino Secreta,Histórica,2018,4,CineMax Play,Alemania

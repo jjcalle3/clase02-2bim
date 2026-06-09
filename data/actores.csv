@@ -1,0 +1,501 @@
+id,nombre,edad,pais,serie
+1,Thomas Miller,52,España,Horizonte Secreta
+2,Valentina Müller,52,India,Memoria Azul
+3,Noah Botha,56,Estados Unidos,Camino Infinita
+4,Aarav Saleh,48,Estados Unidos,Camino Infinita 18
+5,Camila Fernández,49,Estados Unidos,Amanecer Oscura
+6,James Kim,36,Sudáfrica,Imperio Antigua 12
+7,Layla Silva,29,Australia,Archivo Central
+8,Aisha Saleh,69,Japón,Luz Azul
+9,Hans Pereira,68,México,Reino Perdida
+10,Thabo Herrera,37,Nueva Zelanda,Archivo Circular
+11,Haruto Kim,27,Australia,Memoria Brillante
+12,Olivia Rojas,72,Sudáfrica,Imperio Central
+13,Lucía Hassan,25,Corea del Sur,Medianoche Dorada
+14,Andrés Morales,21,Corea del Sur,Mirada Perdida
+15,Lukas Pereira,31,Alemania,Último Final
+16,Aarav Herrera,55,Nueva Zelanda,Frontera Perdida
+17,Lucía Smith,42,Nueva Zelanda,Medianoche Final 55
+18,Ethan Kim,27,Egipto,Marea Eterna
+19,Lucas Tanaka,54,Estados Unidos,Sombras Del Sur
+20,Jack Taylor,50,Alemania,Archivo Central 42
+21,Pierre Morales,33,Nigeria,Silencio Profunda
+22,Arthur Saleh,69,Sudáfrica,Casa Circular
+23,Isabella Pereira,70,Corea del Sur,Raíces Final
+24,Lucas Mokoena,67,México,Último Brillante
+25,Mina Hassan,37,Egipto,Camino Brillante
+26,Miguel Dubois,23,Reino Unido,Mirada Profunda
+27,Lukas Johnson,69,Egipto,Último Final
+28,James Müller,42,Corea del Sur,Frontera Brillante
+29,Louis Sharma,34,Francia,Camino Infinita 18
+30,James Okafor,34,España,Imperio Final
+31,Mia Mokoena,18,Francia,Marea Salvaje
+32,Valentina Sharma,49,Australia,Marea Perdida
+33,Hugo Fernández,63,Sudáfrica,Camino Salvaje
+34,Valentina Méndez,47,Francia,Imperio Profunda
+35,Diego Sharma,59,Corea del Sur,Luz Profunda
+36,Hans Mokoena,65,India,Código Del Sur
+37,Andrés Johnson,49,México,Puerto Central
+38,Thabo Mokoena,24,Reino Unido,Imperio Antigua
+39,Lukas Johnson 39,36,Estados Unidos,Voces Salvaje
+40,Thomas Adeyemi,53,Francia,Amanecer Circular
+41,Aisha Patel,41,Estados Unidos,Amanecer Circular
+42,Mina Nguyen,43,Japón,Raíces Final
+43,Camila Silva,48,España,Camino Salvaje
+44,Thabo Méndez,25,Egipto,Marea Invisible
+45,Ethan Morales,20,Egipto,Frontera Del Norte
+46,Miguel Okafor,70,Japón,Mirada Profunda
+47,Mateo Tanaka,69,Brasil,Raíces Final
+48,Jiho Sato,48,Australia,Luz Profunda
+49,Carlos Taylor,72,Estados Unidos,Medianoche Final 55
+50,Lucas Walker,40,India,Voces Salvaje
+51,Chidi Richardson,55,Nigeria,Medianoche Del Sur
+52,Andrés Dubois,23,Egipto,Estación Invisible
+53,Isabella Patel,72,Corea del Sur,Voces Lejana
+54,Oliver Johnson,27,Francia,Amanecer Azul
+55,Camila Morales,51,Estados Unidos,Amanecer Secreta
+56,James Sato,31,Japón,Luz Azul
+57,Mina Moreau,52,Japón,Refugio Salvaje
+58,Olivia Nguyen,40,Nigeria,Amanecer Oscura
+59,Arthur Adeyemi,71,Corea del Sur,Silencio Del Sur
+60,Aarav García,44,Reino Unido,Último Brillante
+61,Layla Costa,18,Sudáfrica,Herencia Lejana
+62,Liam Fernández,57,Sudáfrica,Código Rota
+63,Lucas Brown,67,Sudáfrica,Ciudad Nueva
+64,Emma Wilson,57,Egipto,Amanecer Secreta
+65,Mia Costa,72,Australia,Reino Perdida
+66,Camila Wilson,51,Egipto,Silencio Del Sur
+67,Diego Park,46,Australia,Casa Circular
+68,Mia Costa 68,57,Sudáfrica,Marea Eterna
+69,William Smith,33,Reino Unido,Camino Salvaje
+70,Rohan Nguyen,39,Australia,Archivo Central 42
+71,Lucía Sharma,56,Alemania,Código Salvaje
+72,Layla Pereira,49,México,Amanecer Central
+73,Emma Smith,61,Francia,Herencia Lejana
+74,Amara Tanaka,68,Australia,Voces Lejana
+75,Lucía Dubois,24,Alemania,Casa Azul
+76,Thabo Nguyen,61,España,Refugio Salvaje
+77,Jiho Dubois,45,Sudáfrica,Herencia Azul
+78,Haruto Johnson,45,Nueva Zelanda,Marea Eterna
+79,Carlos Taylor 79,57,Estados Unidos,Silencio Dorada
+80,Ethan Schneider,31,Sudáfrica,Pacto Nueva
+81,Lukas Fernández,27,Reino Unido,Sombras Antigua
+82,Amara Martin,48,España,Archivo Central
+83,Andrés Nguyen,58,Brasil,Herencia Circular
+84,Hans Dubois,47,Sudáfrica,Primera Antigua
+85,Jiho Herrera,61,Nigeria,Medianoche Final
+86,Louis Moreau,27,Brasil,Reino Perdida
+87,Pierre Patel,52,Nueva Zelanda,Raíces Central
+88,Rohan Richardson,26,Corea del Sur,Frontera Perdida
+89,Thomas Adeyemi Jr.,39,Brasil,Archivo Central 42
+90,Noah Walker,31,Brasil,Primera Circular
+91,Layla Kim,23,Nueva Zelanda,Voces Lejana
+92,Aarav Brown,59,India,Silencio Del Sur
+93,Sofia Williams,54,Francia,Marea Eterna
+94,Aisha Park,71,Nigeria,Niebla Oscura
+95,Louis Martin,39,Egipto,Archivo Central
+96,Miguel Adeyemi,22,Nueva Zelanda,Reino Salvaje
+97,Mateo Smith,22,Sudáfrica,Memoria Azul
+98,William Smith 98,25,Francia,Herencia Lejana
+99,Lukas Fernández 99,65,Egipto,Amanecer Azul
+100,Aisha Miller,53,Alemania,Primera Perdida
+101,Rohan Schneider,55,Nigeria,Estación Invisible
+102,Lukas Okafor,41,Brasil,Archivo Final
+103,Lucas Martin,19,Australia,Primera Oscura
+104,Liam Taylor,64,Alemania,Estación Central
+105,Rohan Brown,61,España,Refugio Eterna
+106,Oliver Richardson,55,Reino Unido,Archivo Final
+107,Lucía Adeyemi,30,Estados Unidos,Silencio Dorada
+108,Hugo Morales,42,Francia,Ciudad Final
+109,Lucía Martin,68,Nigeria,Horizonte Secreta 4
+110,Carlos Fernández,59,Estados Unidos,Refugio Eterna
+111,James Morales,33,Japón,Horizonte Secreta
+112,Haruto Herrera,18,Japón,Estación Central
+113,Carlos Kim,67,Japón,Ciudad Antigua
+114,Isabella Fernández,63,Reino Unido,Refugio Eterna
+115,Camila Williams,19,Estados Unidos,Pacto Nueva
+116,Lukas Méndez,53,España,Marea Salvaje
+117,Jack Moreau,29,Australia,Amanecer Infinita
+118,Camila Nguyen,65,Nueva Zelanda,Amanecer Azul
+119,Olivia Moreau,22,Francia,Horizonte Brillante 81
+120,Andrés Richardson,21,Reino Unido,Secreto Oscura
+121,Mateo Smith II,48,Australia,Marea Central
+122,William Herrera,27,Alemania,Reino Central
+123,Pierre Johnson,38,Brasil,Camino Antigua
+124,Lucía Tanaka,60,Reino Unido,Silencio Profunda
+125,Jiho Méndez,41,Alemania,Pacto Azul
+126,James Costa,22,Alemania,Herencia Lejana
+127,James Morales 127,62,Nueva Zelanda,Marea Eterna
+128,Andrés Taylor,72,Estados Unidos,Amanecer Dorada
+129,Liam Sharma,27,Sudáfrica,Código Rota
+130,Yuna Hassan,35,España,Marea Eterna
+131,Sofia Schneider,52,Reino Unido,Amanecer Secreta
+132,Olivia Müller,30,México,Memoria Brillante
+133,Isabella Tanaka,19,Sudáfrica,Código Eterna
+134,Thomas Wilson,37,España,Marea Azul
+135,Olivia Costa,56,Corea del Sur,Pacto Azul
+136,Hugo Moreau,24,Nueva Zelanda,Silencio Del Sur
+137,Mina Schneider,47,Nigeria,Imperio Profunda
+138,Pierre Costa,64,Francia,Marea Salvaje
+139,Ethan Fernández,67,Estados Unidos,Primera Perdida
+140,Andrés Johnson 140,24,Francia,Mirada Secreta
+141,Jack Walker,34,Nueva Zelanda,Memoria Azul
+142,Camila Park,23,Corea del Sur,Código Del Sur
+143,Omar Morales,51,Brasil,Horizonte Secreta
+144,Akira Costa,52,Egipto,Imperio Antigua 12
+145,Mia Nguyen,60,Estados Unidos,Secreto Oscura
+146,Haruto García,56,Francia,Mirada Rota
+147,Ethan Silva,65,Egipto,Camino Del Sur
+148,Jack Park,57,Reino Unido,Marea Invisible
+149,Yuna Hassan III,46,Sudáfrica,Herencia Lejana
+150,Aisha Tanaka,72,Japón,Ciudad Nueva
+151,Hugo Williams,64,India,Horizonte Secreta 4
+152,Thabo Nguyen 152,39,Reino Unido,Horizonte Secreta
+153,Akira Dubois,38,España,Imperio Antigua 12
+154,Pierre Johnson 154,37,Francia,Código Salvaje
+155,Arthur Saleh III,23,Corea del Sur,Sombras Antigua
+156,William Sato,71,Sudáfrica,Ciudad Antigua
+157,Olivia Johnson,37,Reino Unido,Amanecer Central
+158,Mateo Sharma,32,Nigeria,Último Brillante
+159,Miguel Brown,72,Brasil,Marea Central
+160,Valentina Taylor,72,Francia,Último Brillante
+161,Thabo Richardson,20,España,Código Del Sur
+162,Jack Wilson,63,Corea del Sur,Medianoche Final 55
+163,James Richardson,26,Reino Unido,Luz Salvaje
+164,Haruto Müller,49,España,Ciudad Final
+165,Oliver García,62,España,Pacto Azul
+166,Mina Brown,48,Nueva Zelanda,Camino Del Norte
+167,Hugo Botha,36,Francia,Destino Dorada
+168,Liam Miller,55,Nueva Zelanda,Silencio Del Sur
+169,Lucía Rojas,21,Estados Unidos,Ciudad Antigua
+170,Thomas Walker,31,Japón,Frontera Del Norte
+171,Lukas Dubois,60,Sudáfrica,Memoria Brillante
+172,Mateo Dubois,43,Sudáfrica,Destino Profunda
+173,Hugo Walker,19,Brasil,Primera Salvaje
+174,Omar Hassan,53,Nigeria,Memoria Azul
+175,Hans Silva,44,Estados Unidos,Luz Salvaje
+176,Sofia Silva,26,Reino Unido,Marea Invisible
+177,James Johnson,64,Sudáfrica,Amanecer Dorada
+178,Yuna Nguyen,25,Alemania,Amanecer Circular
+179,Hugo Brown,35,Egipto,Herencia Circular
+180,Aisha Mokoena,37,España,Memoria Rota
+181,Lucas Méndez,72,Reino Unido,Mirada Profunda
+182,Lucía Park,42,Estados Unidos,Amanecer Central
+183,Aarav Dubois,31,Australia,Pacto Azul
+184,Valentina Müller 184,72,India,Pacto Nueva
+185,Mateo Martin,26,Japón,Último Central
+186,Ethan Moreau,55,Alemania,Código Eterna
+187,Hans Sharma,56,Nueva Zelanda,Reino Salvaje
+188,Amara Williams,43,Australia,Medianoche Final 55
+189,Thomas Saleh,61,Nigeria,Imperio Central
+190,Emma Brown,47,Francia,Reino Secreta
+191,Omar Müller,19,Estados Unidos,Ciudad Antigua
+192,Amara Walker,72,India,Destino Dorada
+193,Haruto Müller 193,36,Sudáfrica,Niebla Antigua
+194,Diego Rojas,30,Nigeria,Herencia Rota
+195,Pierre Saleh,47,Brasil,Camino Del Sur
+196,Lucía Kim,57,México,Camino Salvaje
+197,Jack Miller,23,Nueva Zelanda,Imperio Antigua 12
+198,Chidi Herrera,19,México,Mirada Azul
+199,Yuna Mokoena,64,Alemania,Mirada Secreta
+200,Valentina Okafor,34,Estados Unidos,Frontera Brillante
+201,Akira Johnson,36,India,Mirada Azul
+202,Aisha Wilson,21,Australia,Refugio Central
+203,Mia García,56,Nigeria,Medianoche Del Sur
+204,Liam Brown,59,Japón,Amanecer Infinita
+205,Thomas Botha,18,España,Medianoche Final 55
+206,Omar Patel,53,España,Niebla Oscura
+207,Jiho Moreau,20,Estados Unidos,Horizonte Secreta 4
+208,Carlos Walker,28,Sudáfrica,Camino Infinita 18
+209,Layla Patel,55,Nueva Zelanda,Mirada Profunda
+210,Liam Sharma 210,30,Australia,Frontera Del Norte
+211,Thomas Walker 211,57,Corea del Sur,Frontera Perdida
+212,Lukas Méndez 212,52,Estados Unidos,Amanecer Dorada
+213,Miguel Costa,25,Sudáfrica,Medianoche Final
+214,Oliver Dubois,47,Egipto,Marea Salvaje
+215,Sofia Williams 215,38,India,Sombras Del Sur
+216,Haruto Hassan,62,India,Marea Perdida
+217,Haruto Richardson,24,Egipto,Horizonte Brillante 81
+218,Thomas Tanaka,61,Nigeria,Horizonte Invisible
+219,Pierre Schneider,23,Japón,Luz Profunda
+220,Jack Martin,27,Sudáfrica,Amanecer Dorada
+221,Mateo Silva,38,México,Horizonte Brillante 81
+222,Noah Sato,23,Egipto,Estación Circular
+223,Amara Méndez,34,Egipto,Archivo Circular
+224,William Müller,24,Alemania,Silencio Del Sur
+225,Valentina Brown,68,Australia,Secreto Oscura
+226,Mina Wilson,61,Japón,Archivo Central 42
+227,Jiho Moreau 227,54,Alemania,Silencio Del Sur
+228,Isabella Hassan,57,Sudáfrica,Marea Eterna
+229,Oliver Costa,71,Australia,Raíces Central
+230,Aarav Hassan,20,Egipto,Herencia Final
+231,Louis Tanaka,27,Alemania,Archivo Central 42
+232,Haruto Brown,59,Brasil,Primera Perdida
+233,Andrés Richardson 233,64,México,Código Del Sur
+234,Isabella Saleh,34,España,Silencio Profunda
+235,Andrés Fernández,41,Reino Unido,Voces Salvaje
+236,Mateo Nguyen,44,Egipto,Sombras Central
+237,Mia Mokoena II,21,España,Imperio Antigua
+238,Emma Richardson,21,Nigeria,Amanecer Oscura
+239,Andrés Nguyen II,27,Francia,Código Secreta
+240,Oliver Okafor,25,España,Marea Eterna
+241,Isabella Pereira III,56,Reino Unido,Destino Del Sur
+242,Lucas Botha,46,Brasil,Destino Profunda
+243,Thabo Kim,26,Brasil,Marea Eterna
+244,Noah Williams,33,Sudáfrica,Silencio Del Sur
+245,Mia Kim,43,Alemania,Medianoche Eterna
+246,Thabo Walker,18,Nigeria,Medianoche Eterna
+247,Ethan Méndez,24,España,Camino Brillante
+248,Pierre Kim,31,Francia,Pacto Azul
+249,Aarav Adeyemi,56,Sudáfrica,Medianoche Del Sur
+250,Lucas Sato,19,Sudáfrica,Marea Eterna
+251,Thabo Herrera 251,47,Corea del Sur,Refugio Eterna
+252,Arthur Silva,32,Francia,Medianoche Final 55
+253,Valentina Walker,43,Nigeria,Medianoche Del Sur
+254,Arthur García,26,Alemania,Imperio Profunda
+255,Carlos Williams,30,Alemania,Mirada Profunda
+256,Lukas Johnson 256,31,Francia,Destino Secreta
+257,Sofia Adeyemi,29,Egipto,Herencia Circular
+258,James Tanaka,23,Egipto,Herencia Lejana
+259,Hugo Walker 259,27,Brasil,Sombras Central
+260,Aisha Morales,47,Alemania,Memoria Salvaje
+261,Olivia Wilson,34,Japón,Memoria Azul
+262,Oliver Park,54,Australia,Luz Salvaje
+263,Miguel García,71,México,Amanecer Azul
+264,Aarav Fernández,68,Australia,Camino Infinita
+265,Layla Walker,24,Japón,Mirada Secreta
+266,Haruto Moreau,38,Nigeria,Secreto Oscura
+267,Amara Hassan,36,México,Frontera Brillante
+268,Sofia Tanaka,23,Brasil,Sombras Central
+269,Miguel Pereira,33,Reino Unido,Archivo Circular
+270,Arthur Méndez,36,Australia,Destino Secreta
+271,Isabella Moreau,43,India,Camino Del Sur
+272,Mia Sato,36,España,Camino Infinita 18
+273,Thabo Tanaka,47,Nueva Zelanda,Luz Profunda 77
+274,Hans Hassan,32,Nigeria,Memoria Salvaje
+275,Thabo Wilson,22,Nueva Zelanda,Mirada Rota
+276,Andrés Park,46,Sudáfrica,Memoria Azul
+277,Chidi Schneider,67,España,Camino Del Sur
+278,Mia Botha,27,México,Sombras Del Sur
+279,Lucas Dubois,19,Nueva Zelanda,Memoria Brillante
+280,James Nguyen,47,Corea del Sur,Mirada Perdida
+281,Miguel Johnson,31,Sudáfrica,Luz Profunda 77
+282,Layla Sharma,52,Nigeria,Imperio Profunda
+283,Miguel Fernández,47,Japón,Herencia Secreta
+284,Lucía Martin II,42,India,Niebla Antigua
+285,Chidi Saleh,49,Australia,Último Final
+286,Mia Costa 286,51,Estados Unidos,Frontera Perdida
+287,Thomas Mokoena,18,Estados Unidos,Silencio Dorada
+288,Akira Patel,41,Alemania,Medianoche Final
+289,Mateo Rojas,54,Corea del Sur,Luz Profunda
+290,Akira Botha,20,España,Código Rota
+291,Diego Brown,49,Japón,Casa Circular
+292,Thabo Méndez 292,67,Reino Unido,Código Del Sur
+293,Thomas Miller 293,37,India,Medianoche Eterna
+294,Lucas Schneider,48,España,Camino Central
+295,Olivia Hassan,30,India,Ciudad Final
+296,Rohan Saleh,56,Sudáfrica,Camino Del Sur
+297,William Dubois,56,Alemania,Herencia Final
+298,Haruto Park,30,Nueva Zelanda,Imperio Antigua 12
+299,Lucas Rojas,36,Australia,Memoria Salvaje
+300,Carlos Méndez,21,Alemania,Frontera Del Norte
+301,Valentina Mokoena,63,Nueva Zelanda,Horizonte Secreta
+302,Jiho Pereira,45,Corea del Sur,Medianoche Dorada
+303,James Okafor 303,27,Egipto,Mirada Rota
+304,Hugo Hassan,18,Egipto,Último Final
+305,Miguel Dubois 305,25,México,Amanecer Central
+306,Carlos Rojas,53,Nigeria,Medianoche Dorada
+307,Lukas Schneider,23,Nueva Zelanda,Último Final
+308,Noah Costa,57,Alemania,Primera Perdida
+309,Omar Okafor,35,Estados Unidos,Amanecer Circular
+310,Pierre Smith,26,España,Niebla Antigua
+311,Emma Botha,56,México,Código Secreta
+312,Arthur Patel,57,Reino Unido,Camino Salvaje
+313,Emma Williams,34,Brasil,Sombras Antigua
+314,Jack Silva,29,Nueva Zelanda,Ciudad Final
+315,Mia Brown,66,Corea del Sur,Primera Circular
+316,Layla Taylor,56,Estados Unidos,Amanecer Infinita
+317,Haruto Fernández,45,Japón,Sombras Central
+318,Haruto Kim 318,39,Sudáfrica,Archivo Central 42
+319,Diego Nguyen,61,Estados Unidos,Frontera Perdida
+320,Lucas Herrera,49,Sudáfrica,Imperio Final
+321,Isabella Müller,70,Sudáfrica,Horizonte Invisible
+322,Aarav García 322,45,Alemania,Horizonte Invisible
+323,Thomas Hassan,32,Alemania,Frontera Del Norte
+324,Carlos Saleh,45,Nueva Zelanda,Raíces Central
+325,Ethan Adeyemi,19,Corea del Sur,Último Final
+326,Thabo García,72,México,Código Salvaje
+327,Miguel Sharma,39,Corea del Sur,Medianoche Del Sur
+328,Olivia Martin,28,Japón,Memoria Rota
+329,Aisha Müller,24,India,Silencio Profunda
+330,Lucas Martin 330,71,Egipto,Archivo Final
+331,Carlos Smith,25,Nueva Zelanda,Archivo Circular
+332,Thomas Richardson,51,Alemania,Refugio Salvaje
+333,Oliver Silva,28,Estados Unidos,Horizonte Brillante
+334,Thomas Costa,29,Japón,Camino Central
+335,Hans Dubois 335,58,Francia,Primera Perdida
+336,Emma Dubois,49,Brasil,Horizonte Secreta
+337,James Richardson 337,18,Alemania,Pacto Nueva
+338,Hans Smith,30,España,Raíces Del Sur
+339,Aisha Dubois,66,Reino Unido,Sombras Del Sur
+340,Ethan Martin,53,Brasil,Sombras Del Sur
+341,Mia Adeyemi,64,México,Horizonte Brillante
+342,Omar Saleh,62,España,Horizonte Secreta 4
+343,Carlos Smith 343,59,Estados Unidos,Horizonte Invisible
+344,Sofia Miller,58,Sudáfrica,Archivo Central 42
+345,Emma Williams Jr.,28,Corea del Sur,Frontera Brillante
+346,Arthur Sharma,65,España,Mirada Perdida
+347,Louis Kim,60,Estados Unidos,Sombras Central
+348,Aisha Smith,64,Brasil,Primera Perdida
+349,Chidi Williams,47,Francia,Frontera Brillante
+350,Andrés Williams,66,Corea del Sur,Niebla Antigua
+351,Thomas Wilson 351,50,España,Silencio Profunda
+352,Lukas Patel,65,Japón,Medianoche Final
+353,James Martin,56,Corea del Sur,Marea Azul
+354,Lukas Williams,55,Estados Unidos,Reino Secreta
+355,Thomas Johnson,42,Corea del Sur,Frontera Perdida
+356,Lukas Williams 356,43,Sudáfrica,Código Rota
+357,Diego Richardson,50,India,Puerto Central
+358,Camila Martin,23,Estados Unidos,Destino Dorada
+359,Hugo Saleh,35,Egipto,Herencia Lejana
+360,Layla Sato,37,Corea del Sur,Mirada Rota
+361,Jack Sharma,59,Brasil,Último Final
+362,Isabella Taylor,22,Japón,Medianoche Final 55
+363,Liam Richardson,65,Alemania,Marea Salvaje
+364,James Silva,59,Nigeria,Código Eterna
+365,Carlos Miller,29,Australia,Archivo Final
+366,Isabella Tanaka 366,50,España,Archivo Circular
+367,Aarav Saleh 367,35,Reino Unido,Reino Perdida
+368,Oliver Silva 368,69,Reino Unido,Raíces Secreta
+369,Sofia Sharma,67,Francia,Destino Infinita
+370,Mateo Tanaka 370,35,Egipto,Primera Antigua
+371,Diego Sharma 371,70,Japón,Marea Salvaje
+372,Andrés Fernández II,56,Alemania,Marea Salvaje
+373,Andrés Pereira,67,Reino Unido,Amanecer Circular
+374,Emma Patel,44,Australia,Amanecer Infinita
+375,Omar Kim,33,Japón,Último Final
+376,Chidi Richardson 376,52,Reino Unido,Herencia Secreta
+377,Mateo Tanaka 377,19,Japón,Refugio Central
+378,Jack Martin 378,18,Nueva Zelanda,Destino Dorada
+379,Valentina Hassan,57,Estados Unidos,Reino Secreta
+380,Akira Herrera,24,Estados Unidos,Imperio Final
+381,Ethan Pereira,40,Nueva Zelanda,Marea Salvaje
+382,Layla Smith,51,Australia,Luz Profunda 77
+383,Arthur Martin,41,Estados Unidos,Herencia Final
+384,Chidi Dubois,61,Australia,Código Rota
+385,Carlos García,68,Reino Unido,Sombras Del Sur
+386,Lukas Fernández 386,33,Reino Unido,Destino Infinita
+387,Yuna Adeyemi,69,Reino Unido,Marea Azul
+388,Jack Rojas,44,India,Sombras Antigua
+389,Hugo Costa,62,Brasil,Luz Salvaje
+390,James Park,22,India,Sombras Antigua
+391,Mateo Costa,60,Brasil,Primera Antigua
+392,Louis Walker,49,Nigeria,Mirada Profunda
+393,Jiho Fernández,36,Egipto,Último Central
+394,Emma Park,55,Corea del Sur,Archivo Final
+395,Louis Taylor,65,Egipto,Refugio Salvaje
+396,Isabella Tanaka Jr.,24,Corea del Sur,Voces Salvaje
+397,Lukas Morales,65,Corea del Sur,Archivo Final
+398,Isabella Tanaka 398,39,Alemania,Mirada Rota
+399,Mia Silva,21,Estados Unidos,Imperio Central
+400,Lukas Schneider 400,36,España,Voces Lejana
+401,Amara Smith,29,México,Archivo Central
+402,Yuna Sato,21,Japón,Primera Antigua
+403,Hugo Fernández 403,62,Alemania,Destino Infinita
+404,Pierre Morales 404,64,España,Amanecer Circular
+405,Olivia Tanaka,54,Alemania,Destino Secreta
+406,Mia Sato II,71,Reino Unido,Reino Perdida
+407,James Botha,58,Egipto,Destino Dorada
+408,Yuna Taylor,39,Japón,Estación Circular
+409,Aisha Smith 409,53,Sudáfrica,Último Final
+410,Carlos Dubois,25,Australia,Horizonte Invisible
+411,Layla Park,58,Sudáfrica,Memoria Azul
+412,Andrés Hassan,70,México,Imperio Antigua 12
+413,Oliver Hassan,53,España,Imperio Profunda
+414,Ethan Schneider 414,51,Reino Unido,Horizonte Brillante 81
+415,Jack Méndez,30,Sudáfrica,Refugio Central
+416,Camila Tanaka,62,Corea del Sur,Reino Central
+417,Thabo Williams,51,España,Luz Profunda 77
+418,Isabella Müller 418,20,Alemania,Archivo Final
+419,Hans Taylor,18,Sudáfrica,Camino Infinita
+420,Isabella Nguyen,36,España,Estación Central
+421,Liam Okafor,65,España,Último Central
+422,Olivia Silva,51,Corea del Sur,Camino Brillante
+423,Louis Schneider,56,India,Reino Perdida
+424,Akira Dubois 424,59,Australia,Ciudad Antigua
+425,William Rojas,37,Corea del Sur,Reino Salvaje
+426,Hugo Wilson,55,Japón,Imperio Profunda
+427,Miguel Müller,29,Reino Unido,Reino Perdida
+428,Jiho Williams,41,México,Mirada Profunda
+429,Noah Moreau,65,Nueva Zelanda,Horizonte Secreta 4
+430,Aarav Hassan 430,58,Reino Unido,Amanecer Oscura
+431,Amara Tanaka 431,19,India,Ruta Oscura
+432,Aisha Müller 432,61,Nigeria,Raíces Final
+433,Aarav Nguyen,26,México,Silencio Del Sur
+434,Andrés Pereira II,44,Australia,Camino Del Sur
+435,Thabo Costa,26,Corea del Sur,Herencia Circular
+436,Aarav Taylor,36,India,Ruta Antigua
+437,Camila Silva 437,51,España,Camino Central
+438,Miguel Tanaka,58,Sudáfrica,Imperio Profunda
+439,Ethan Herrera,23,India,Frontera Del Norte
+440,James Okafor 440,20,Nigeria,Frontera Del Norte
+441,Sofia Fernández,43,España,Destino Profunda
+442,Pierre Brown,50,India,Último Central
+443,Diego Silva,56,Francia,Niebla Oscura
+444,Louis Morales,72,Reino Unido,Luz Profunda
+445,William Smith 445,44,Alemania,Mirada Rota
+446,Jack Silva 446,30,India,Herencia Final
+447,Haruto Taylor,20,Alemania,Memoria Brillante
+448,Aisha Tanaka 448,66,Sudáfrica,Código Secreta
+449,Valentina Smith,50,Nigeria,Raíces Central
+450,Ethan Martin Jr.,48,Corea del Sur,Silencio Profunda
+451,Carlos Adeyemi,37,Alemania,Medianoche Final
+452,Camila Martin 452,33,Japón,Código Del Sur
+453,Oliver Park 453,59,India,Refugio Central
+454,Oliver Costa 454,48,Estados Unidos,Primera Oscura
+455,Layla Schneider,24,Francia,Destino Infinita
+456,Carlos Adeyemi 456,36,Francia,Herencia Circular
+457,William Tanaka,50,España,Horizonte Brillante
+458,Mateo Richardson,20,Nueva Zelanda,Camino Antigua
+459,Jiho Walker,36,Australia,Reino Central
+460,Omar Sato,48,Nueva Zelanda,Frontera Del Norte
+461,Andrés Pereira 461,53,Reino Unido,Destino Profunda
+462,Chidi García,37,Estados Unidos,Raíces Central
+463,Akira Dubois 463,21,Australia,Primera Perdida
+464,James Taylor,34,Francia,Mirada Profunda
+465,Jiho Richardson,25,Japón,Camino Infinita 18
+466,Aisha Silva,68,Nigeria,Casa Azul
+467,Haruto Tanaka,51,México,Horizonte Secreta 4
+468,Arthur Nguyen,34,España,Silencio Rota
+469,Hans Méndez,47,Sudáfrica,Camino Del Sur
+470,Mateo Smith 470,68,España,Último Brillante
+471,Chidi Smith,70,India,Amanecer Circular
+472,Thomas Patel,40,Alemania,Raíces Secreta
+473,Valentina Schneider,60,España,Imperio Profunda
+474,Camila Moreau,63,Australia,Marea Salvaje
+475,Emma Johnson,72,Japón,Primera Antigua
+476,Ethan Miller,58,Australia,Herencia Azul
+477,Mia Herrera,52,Alemania,Archivo Final
+478,Sofia Tanaka 478,71,Nigeria,Código Secreta
+479,Layla Costa 479,61,Australia,Código Secreta
+480,Jiho Kim,40,Francia,Ciudad Antigua
+481,Sofia Richardson,49,Francia,Horizonte Brillante 81
+482,Mateo Smith 482,37,Egipto,Medianoche Del Sur
+483,Mateo García,54,Estados Unidos,Mirada Profunda
+484,Louis Costa,51,Sudáfrica,Raíces Del Sur
+485,Camila Johnson,21,Estados Unidos,Estación Invisible
+486,Omar Mokoena,65,México,Marea Central
+487,Yuna Okafor,51,India,Luz Profunda
+488,Yuna Pereira,36,Sudáfrica,Mirada Perdida
+489,Hans Brown,69,Francia,Imperio Central
+490,William Sharma,35,Nueva Zelanda,Imperio Antigua 12
+491,Emma Hassan,69,Nigeria,Refugio Eterna
+492,Rohan Williams,24,Alemania,Camino Del Norte
+493,Amara Hassan III,19,Nigeria,Sombras Central
+494,Noah Silva,65,Corea del Sur,Horizonte Secreta
+495,Noah García,46,España,Memoria Azul
+496,Aisha Sharma,71,Corea del Sur,Sombras Central
+497,Haruto Richardson 497,23,Corea del Sur,Amanecer Azul
+498,Olivia García,51,Reino Unido,Reino Salvaje
+499,Jiho Brown,37,Corea del Sur,Luz Azul
+500,Thomas Morales,31,Francia,Código Del Sur
