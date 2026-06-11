@@ -2,7 +2,7 @@ from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
 
 # se importa la clase(s) del 
-# archivo genera_tablas
+# archivo modelo
 from modelo import Pais, Plataforma, Serie, Actor, Premio
 
 # se importa información del archivo configuracion
