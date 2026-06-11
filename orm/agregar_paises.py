@@ -7,6 +7,7 @@ from modelo import Pais, Plataforma, Serie, Actor, Premio
 
 # se importa información del archivo configuracion
 from config import cadena_base_datos
+
 # se genera enlace al gestor de base de
 # datos
 # para el ejemplo se usa la base de datos

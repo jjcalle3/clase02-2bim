@@ -5,7 +5,8 @@ from sqlalchemy.orm import sessionmaker
 # archivo modelo
 from modelo import  Serie, Plataforma, Pais
 # se importa información del archivo configuracion
-from modelo import cadena_base_datos
+from config import cadena_base_datos
+
 # se genera enlace al gestor de base de
 # datos
 # para el ejemplo se usa la base de datos

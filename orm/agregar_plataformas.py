@@ -7,6 +7,7 @@ from modelo import Pais, Plataforma, Serie, Actor, Premio
 
 # se importa información del archivo configuracion
 from config import cadena_base_datos
+from agregar_paises import p1, p2, p3, p4, p5, p6, p7, p8, p9, p10, p11, p12, p13, p14, p15
 # se genera enlace al gestor de base de
 # datos
 
@@ -20,21 +21,6 @@ Session = sessionmaker(bind=engine)
 session = Session()
 
 
-p1 = session.query(Pais).filter_by(nombre="Estados Unidos").first()
-p2 = session.query(Pais).filter_by(nombre="España").first()
-p3 = session.query(Pais).filter_by(nombre="Reino Unido").first()
-p4 = session.query(Pais).filter_by(nombre="Francia").first()
-p5 = session.query(Pais).filter_by(nombre="Alemania").first()
-p6 = session.query(Pais).filter_by(nombre="Corea del Sur").first()
-p7 = session.query(Pais).filter_by(nombre="Japón").first()
-p8 = session.query(Pais).filter_by(nombre="India").first()
-p9 = session.query(Pais).filter_by(nombre="Nigeria").first()
-p10 = session.query(Pais).filter_by(nombre="Sudáfrica").first()
-p11 = session.query(Pais).filter_by(nombre="Egipto").first()
-p12 = session.query(Pais).filter_by(nombre="Australia").first()
-p13 = session.query(Pais).filter_by(nombre="Nueva Zelanda").first()
-p14 = session.query(Pais).filter_by(nombre="México").first()
-p15 = session.query(Pais).filter_by(nombre="Brasil").first()
 
 
 # Se crean objetos de tipo Plataforma
