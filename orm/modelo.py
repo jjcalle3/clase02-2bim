@@ -1,5 +1,6 @@
 from sqlalchemy import Column, Integer, String, ForeignKey
 from sqlalchemy.orm import relationship, declarative_base
+from sqlalchemy.orm import sessionmaker, relationship
 from sqlalchemy import create_engine
 
 from config import cadena_base_datos
